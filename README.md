@@ -31,9 +31,9 @@ I am a **Software & Systems Development** student focused on building practical 
 | Project | Focus Area | Stack |
 | :--- | :--- | :--- |
 | **[GreenLeaf Nursery Inventory](https://github.com/revaldowilliams9-creator/Greenleaf-nursery-inventory)** | Full-stack web inventory & price management | Python, Flask, SQLite, HTML |
-| **[System Infrastructure Monitor](https://github.com/revaldowilliams9-creator)** | Real-time per-core CPU profiling & Slack alerts | Python, `psutil`, REST Webhooks |
-| **[Grade Classifier & Unit Tests](https://github.com)** | Boundary-value validation & automated QA suite | Python, `unittest` |
-| **[NorthWind Freight Tracker](https://github.com)** | Regex data hygiene & `zlib` binary archiving | Python, `re`, `zlib` |
-| **[QuickMart Stock Management](https://github.com)** | Modular OOP console inventory & valuation system | Python, `dataclasses` |
-| **[8D Projection Engine](https://github.com)** | Real-time hyperspace visualizer & particle simulation | Python, `pygame-ce` |
+| **[System Infrastructure Monitor](https://github.com/revaldowilliams9-creator/System-infrastructure-monitor)** | Real-time per-core CPU profiling & Slack alerts | Python, `psutil`, REST Webhooks |
+| **[Grade Classifier & Unit Tests](https://github.com/revaldowilliams9-creator/python-grade-classifier-tests)** | Boundary-value validation & automated QA suite | Python, `unittest` |
+| **[NorthWind Freight Tracker](https://github.com/revaldowilliams9-creator/Northwind-freight-tracker)** | Regex data hygiene & `zlib` binary archiving | Python, `re`, `zlib` |
+| **[QuickMart Stock Management](https://github.com/revaldowilliams9-creator/QuickMart-Stock-Management)** | Modular OOP console inventory & valuation system | Python, `dataclasses` |
+| **[8D Projection Engine](https://github.com/revaldowilliams9-creator/8d-projection-engine)** | Real-time hyperspace visualizer & particle simulation | Python, `pygame-ce` |
 
