@@ -27,6 +27,7 @@ I am a **Software & Systems Development** student focused on building practical 
 
 ### 📂 Highlighted Projects
 
+
 | Project | Focus Area | Stack |
 | :--- | :--- | :--- |
 | **[GreenLeaf Nursery Inventory](https://github.com)** | Full-stack web inventory & price management | Python, Flask, SQLite, HTML |
