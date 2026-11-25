@@ -30,9 +30,10 @@ I am a **Software & Systems Development** student focused on building practical 
 
 | Project | Focus Area | Stack |
 | :--- | :--- | :--- |
-| **[GreenLeaf Nursery Inventory](https://github.com)** | Full-stack web inventory & price management | Python, Flask, SQLite, HTML |
-| **[System Infrastructure Monitor](https://github.com)** | Real-time per-core CPU profiling & Slack alerts | Python, `psutil`, REST Webhooks |
+| **[GreenLeaf Nursery Inventory](https://github.com/revaldowilliams9-creator)** | Full-stack web inventory & price management | Python, Flask, SQLite, HTML |
+| **[System Infrastructure Monitor](https://github.com/revaldowilliams9-creator)** | Real-time per-core CPU profiling & Slack alerts | Python, `psutil`, REST Webhooks |
 | **[Grade Classifier & Unit Tests](https://github.com)** | Boundary-value validation & automated QA suite | Python, `unittest` |
 | **[NorthWind Freight Tracker](https://github.com)** | Regex data hygiene & `zlib` binary archiving | Python, `re`, `zlib` |
 | **[QuickMart Stock Management](https://github.com)** | Modular OOP console inventory & valuation system | Python, `dataclasses` |
 | **[8D Projection Engine](https://github.com)** | Real-time hyperspace visualizer & particle simulation | Python, `pygame-ce` |
+
